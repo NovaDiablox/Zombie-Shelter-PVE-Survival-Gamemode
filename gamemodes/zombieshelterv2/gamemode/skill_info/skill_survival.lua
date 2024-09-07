@@ -25,6 +25,7 @@
 
 ZShelter.AddInfo("Speed Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Speed Boost",
 		["fr"] = "Sprint",
 		["tr"] = "Hareket Hızı",
@@ -33,6 +34,7 @@ ZShelter.AddInfo("Speed Boost", {
 		["ru"] = "Увеличение скорости",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases movement speed, +20% per upgrade",
 		["fr"] = "Augmente votre vitesse de déplacement, +20% par amélioration",
 		["tr"] = "Hareket hızını artırır, yükseltme başına +%20",
@@ -43,6 +45,7 @@ ZShelter.AddInfo("Speed Boost", {
 })
 ZShelter.AddInfo("Sanity Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Sanity Boost",
 		["fr"] = "Santé Mentale Renforcée",
 		["tr"] = "Akıl Sağlığı",
@@ -51,6 +54,7 @@ ZShelter.AddInfo("Sanity Boost", {
 		["ru"] = "Укрепление рассудка",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Decreases sanity drain rate, -15% per upgrade",
 		["fr"] = "Réduit la vitesse d'épuisement de votre santé mentale, -15% par amélioration",
 		["tr"] = "Akıl sağlığı azalma oranını azaltır, yükseltme başına -%15",
@@ -61,6 +65,7 @@ ZShelter.AddInfo("Sanity Boost", {
 })
 ZShelter.AddInfo("Resource Rader", {
 	title = {
+		["ro"] = "",
 		["en"] = "Resource Radar",
 		["fr"] = "Radar à Ressources",
 		["tr"] = "Kaynak Radarı",
@@ -69,6 +74,7 @@ ZShelter.AddInfo("Resource Rader", {
 		["ru"] = "Радар ресурсов",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Displays all nearby resources",
 		["fr"] = "Affiche toutes les ressources à proximité",
 		["tr"] = "Yakındaki kaynakları gösterir",
@@ -79,6 +85,7 @@ ZShelter.AddInfo("Resource Rader", {
 })
 ZShelter.AddInfo("Crowbar Upgrade", {
 	title = {
+		["ro"] = "",
 		["en"] = "Crowbar Upgrade",
 		["fr"] = "Pied de Biche",
 		["tr"] = "Levye Yükseltmesi",
@@ -87,6 +94,7 @@ ZShelter.AddInfo("Crowbar Upgrade", {
 		["ru"] = "Переход на монтировку",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Upgrades your melee weapon to crowbar (+60% attack speed)",
 		["fr"] = "Améliore votre arme de mêlée en pied de biche (+60% de vitesse d'attaque)",
 		["tr"] = "Yakın dövüş silahınızı levyeye yükseltir (+%60 saldırı hızı)",
@@ -97,6 +105,7 @@ ZShelter.AddInfo("Crowbar Upgrade", {
 })
 ZShelter.AddInfo("Advanced Gathering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Advanced Gathering",
 		["fr"] = "Collecte Améliorée",
 		["tr"] = "Gelişmiş Toplama",
@@ -105,6 +114,7 @@ ZShelter.AddInfo("Advanced Gathering", {
 		["ru"] = "Продвинутый сбор",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Small chance to get double amount of resources, +10% per upgrade",
 		["fr"] = "Petite chance d'obtenir le double de ressources, +10% par amélioration",
 		["tr"] = "İki kat kaynak alabilmek için küçük bir değişiklik, yükseltme başına +%10",
@@ -115,6 +125,7 @@ ZShelter.AddInfo("Advanced Gathering", {
 })
 ZShelter.AddInfo("Chain Gathering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Chain Gathering",
 		["fr"] = "Collecte à la Chaîne",
 		["tr"] = "Zincirleme Toplama",
@@ -123,6 +134,7 @@ ZShelter.AddInfo("Chain Gathering", {
 		["ru"] = "Цепной сбор",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Gathering multiple resources at same time",
 		["fr"] = "Collecte simultanément plusieurs ressources à la fois",
 		["tr"] = "Aynı anda birden fazla kaynak toplama",
@@ -133,6 +145,7 @@ ZShelter.AddInfo("Chain Gathering", {
 })
 ZShelter.AddInfo("Haste", {
 	title = {
+		["ro"] = "",
 		["en"] = "Haste",
 		["fr"] = "Célérité",
 		["tr"] = "Çabukluk",
@@ -141,6 +154,7 @@ ZShelter.AddInfo("Haste", {
 		["ru"] = "Спешка",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Get double amount of resources per hit",
 		["fr"] = "Double le nombre de ressources par coup",
 		["tr"] = "İki kat toplama hızı",
@@ -151,6 +165,7 @@ ZShelter.AddInfo("Haste", {
 })
 ZShelter.AddInfo("Resource Transporting", {
 	title = {
+		["ro"] = "",
 		["en"] = "Resource Transporting",
 		["fr"] = "Transport de Ressources",
 		["tr"] = "Kaynak Aktarımı",
@@ -159,6 +174,7 @@ ZShelter.AddInfo("Resource Transporting", {
 		["ru"] = "Транспортировка ресурсов",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Resources will be send to storage when inventory is full",
 		["fr"] = "Les ressources sont envoyées au stockage lorsque votre inventaire est plein",
 		["tr"] = "Envanter dolu olduğunda kaynaklar depoya gönderilir",
@@ -169,6 +185,7 @@ ZShelter.AddInfo("Resource Transporting", {
 })
 ZShelter.AddInfo("Stunwave", {
 	title = {
+		["ro"] = "",
 		["en"] = "Stunwave",
 		["fr"] = "Onde Paralysante",
 		["tr"] = "Sersemletici Dalga",
@@ -177,6 +194,7 @@ ZShelter.AddInfo("Stunwave", {
 		["ru"] = "Оглушительная волна",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Stuns all nearby enemies for 25 seconds",
 		["fr"] = "Étourdit tous les ennemis proches pendant 25 secondes",
 		["tr"] = "Yakındaki tüm düşmanları 25 saniye boyunca sersemletir",
@@ -187,6 +205,7 @@ ZShelter.AddInfo("Stunwave", {
 })
 ZShelter.AddInfo("Cloaking", {
 	title = {
+		["ro"] = "",
 		["en"] = "Cloaking",
 		["fr"] = "Cape d'Invisibilité",
 		["tr"] = "Görünmezlik",
@@ -195,6 +214,7 @@ ZShelter.AddInfo("Cloaking", {
 		["ru"] = "Маскировка",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Become invisible for 30 seconds, enemy cannot see you while you're invisible",
 		["fr"] = "Vous devenez invisible pendant 30 secondes, l'ennemi ne peut plus vous voir pendant que vous êtes invisible",
 		["tr"] = "30 saniye boyunca görünmez ol, düşman seni görünmezken göremez",
@@ -205,6 +225,7 @@ ZShelter.AddInfo("Cloaking", {
 })
 ZShelter.AddInfo("Claymore", {
 	title = {
+		["ro"] = "",
 		["en"] = "Claymore",
 		["fr"] = "Claymore",
 		["tr"] = "Kılıç",
@@ -213,6 +234,7 @@ ZShelter.AddInfo("Claymore", {
 		["ru"] = "Противопехотная мина",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to build claymore",
 		["fr"] = "Vous permet de construire des claymore",
 		["tr"] = "APM üretmenize olanak sağlar",
@@ -223,6 +245,7 @@ ZShelter.AddInfo("Claymore", {
 })
 ZShelter.AddInfo("Campfire", {
 	title = {
+		["ro"] = "",
 		["en"] = "Campfire",
 		["fr"] = "Feu de Camp",
 		["tr"] = "Kamp Ateşi",
@@ -231,6 +254,7 @@ ZShelter.AddInfo("Campfire", {
 		["ru"] = "Костёр",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to build campfire",
 		["fr"] = "Vous permet de faire des feux de camp",
 		["tr"] = "Kamp ateşi kurmanıza olanak sağlar",
@@ -241,6 +265,7 @@ ZShelter.AddInfo("Campfire", {
 })
 ZShelter.AddInfo("Trap Damage Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Trap Damage Boost",
 		["fr"] = "Pièges Améliorer",
 		["tr"] = "Tuzak Hasar Yükseltmesi",
@@ -249,6 +274,7 @@ ZShelter.AddInfo("Trap Damage Boost", {
 		["ru"] = "Увеличение урона ловушек",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increase trap damage, +40% per upgrade",
 		["fr"] = "Augmente les dégâts des pièges, +40% par amélioration",
 		["tr"] = "Tuzak hasarını artırır, yükseltme başına +%40",
@@ -259,6 +285,7 @@ ZShelter.AddInfo("Trap Damage Boost", {
 })
 ZShelter.AddInfo("Temporary Turret", {
 	title = {
+		["ro"] = "",
 		["en"] = "Temporary Turret",
 		["fr"] = "Tourelle Temporaire",
 		["tr"] = "Geçici Taret",
@@ -267,6 +294,7 @@ ZShelter.AddInfo("Temporary Turret", {
 		["ru"] = "Временная турель",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Spawn a temporary turret, disappears after 15 seconds",
 		["fr"] = "Apparition temporaire d'une tourelle , elle disparaît au bout de 15 secondes",
 		["tr"] = "Geçici bir taret oluştur, 15 saniye sonra kaybolur",
@@ -277,6 +305,7 @@ ZShelter.AddInfo("Temporary Turret", {
 })
 ZShelter.AddInfo("Increased Capacity", {
 	title = {
+		["ro"] = "",
 		["en"] = "Increased Capacity",
 		["fr"] = "Capacité Améliorée",
 		["tr"] = "Artırılmış Kapasite",
@@ -285,6 +314,7 @@ ZShelter.AddInfo("Increased Capacity", {
 		["ru"] = "Увеличенная вместимость",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increase your resource capacity by 30%",
 		["fr"] = "Augmente la capacité de votre Sac à dos de 30 %",
 		["tr"] = "Kaynak kapasiteni %30 artırır",
@@ -295,6 +325,7 @@ ZShelter.AddInfo("Increased Capacity", {
 })
 ZShelter.AddInfo("Demolitions Specialist", {
 	title = {
+		["ro"] = "",
 		["en"] = "Demolitions Specialist",
 		["fr"] = "Spécialiste en Démolitions",
 		["tr"] = "Yıkım Uzmanı",
@@ -303,6 +334,7 @@ ZShelter.AddInfo("Demolitions Specialist", {
 		["ru"] = "Подрывник-специалист",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "+1 Mine detonate count per upgrade",
 		["fr"] = "Les mines explossent +1 fois par amélioration",
 		["tr"] = "Yükseltme başına patlatılabilir Mayın sayısını +1 artırır",
@@ -313,6 +345,7 @@ ZShelter.AddInfo("Demolitions Specialist", {
 })
 ZShelter.AddInfo("Trap Health Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Trap Health Boost",
 		["fr"] = "Renforcement des Pièges",
 		["tr"] = "Tuzak Sağlığı Yükseltmesi",
@@ -321,6 +354,7 @@ ZShelter.AddInfo("Trap Health Boost", {
 		["ru"] = "",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increase trap's health, +15% health per upgrade",
 		["fr"] = "Augmente la vitesse de réparation des pièges, +100% par amélioration de la santé des pièges, +15% de santé par amélioration",
 		["tr"] = "Tuzak sağlığını artırır, yükseltme başına +%15 sağlık",
@@ -331,6 +365,7 @@ ZShelter.AddInfo("Trap Health Boost", {
 })
 ZShelter.AddInfo("Fast Deploy", {
 	title = {
+		["ro"] = "",
 		["en"] = "Fast Deploy",
 		["fr"] = "Déploiement Rapide",
 		["tr"] = "Hızlı Kurulum",
@@ -339,6 +374,7 @@ ZShelter.AddInfo("Fast Deploy", {
 		["ru"] = "Быстрая установка",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Traps takes less time to build, -50% per upgrade",
 		["fr"] = "Les pièges prennent moins de temps à être construits, -50% par amélioration",
 		["tr"] = "Tuzakları daha az zamanda kurmanızı sağlar, yükseltme başına -%50",
@@ -349,6 +385,7 @@ ZShelter.AddInfo("Fast Deploy", {
 })
 ZShelter.AddInfo("Reinforced Traps", {
 	title = {
+		["ro"] = "",
 		["en"] = "Reinforced Traps",
 		["fr"] = "Pièges Renforcés",
 		["tr"] = "Güçlendirilmiş Tuzaklar",
@@ -357,6 +394,7 @@ ZShelter.AddInfo("Reinforced Traps", {
 		["ru"] = "Укреплённые ловушки",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increase trap's health, +35% health per upgrade",
 		["fr"] = "Augmente la santé des pièges, +35% de santé par amélioration",
 		["tr"] = "Tuzağın sağlığını artırır, yükseltme başına +%35",
@@ -367,6 +405,7 @@ ZShelter.AddInfo("Reinforced Traps", {
 })
 ZShelter.AddInfo("Slick Repairing", {
 	title = {
+		["ro"] = "",
 		["en"] = "Slick Repairing",
 		["fr"] = "Réparation en Série",
 		["tr"] = "Seri Tamir",
@@ -375,6 +414,7 @@ ZShelter.AddInfo("Slick Repairing", {
 		["ru"] = "Безупречный ремонт",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Repairing a trap also repairs nearby traps, +1.5 meters per upgrade",
 		["fr"] = "La réparation d'un piège répare également les pièges à proximité, +1,5 mètre par amélioration",
 		["tr"] = "Yakındaki tüm tuzakları tamir eder, +86 birim alan",
@@ -385,6 +425,7 @@ ZShelter.AddInfo("Slick Repairing", {
 })
 ZShelter.AddInfo("Fast Repair", {
 	title = {
+		["ro"] = "",
 		["en"] = "Fast Repair",
 		["fr"] = "Réparation Rapide",
 		["tr"] = "Hızlı Tamir",
@@ -393,6 +434,7 @@ ZShelter.AddInfo("Fast Repair", {
 		["ru"] = "Быстрый ремонт",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases trap's repair speed, +100% per upgrade",
 		["fr"] = "Augmente la vitesse de réparation des pièges, +100% par amélioration",
 		["tr"] = "Tuzağın tamir hızını artırır, yükseltme başına +%100",
