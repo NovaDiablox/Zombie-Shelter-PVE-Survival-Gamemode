@@ -40,6 +40,7 @@ ZShelter.L("#",{
 })
 ]]
 ZShelter.L("#SkillPTS", {
+	["ro"] = "",
 	["en"] = "Skill menu - [N] | Remaining points : ",
 	["fr"] = "Menu des compétences - [N] | Points restants : ",
 	["tr"] = "Yetenek menüsü - [N] | Kalan puan : ",
@@ -49,6 +50,7 @@ ZShelter.L("#SkillPTS", {
 })
 
 ZShelter.L("#GameStartAfter", {
+	["ro"] = "",
 	["en"] = "Game will start after <VAR> seconds",
 	["fr"] = "La partie commence dans <VAR> secondes",
 	["tr"] = "Oyun <VAR> saniye sonra başlayacak",
@@ -58,6 +60,7 @@ ZShelter.L("#GameStartAfter", {
 })
 
 ZShelter.L("#RespawnAfter", {
+	["ro"] = "",
 	["en"] = "Respawn after <VAR> seconds",
 	["fr"] = "Réapparition dans <VAR> secondes",
 	["tr"] = "<VAR> saniye sonra yeniden canlanılacak",
@@ -67,6 +70,7 @@ ZShelter.L("#RespawnAfter", {
 })
 
 ZShelter.L("#BuildingHint", {
+	["ro"] = "",
 	["en"] = "[Left Click] Build   |  [R] Rotate  |   [Right Click] Cancel",
 	["fr"] = "[Clic Gauche] Construire | [R] Pivoter | [Clic droit] Annuler",
 	["tr"] = "[Sol Tık] İnşa Et   |  [R] Döndür  |   [Sağ Tık] İptal",
@@ -76,6 +80,7 @@ ZShelter.L("#BuildingHint", {
 })
 
 ZShelter.L("#BuildHints", {
+	["ro"] = "",
 	["en"] = "[B] Build Menu  |  [F2] Game Menu  |  [F6] Config Menu",
 	["fr"] = "[B] Construction | [F2] Menu | [F6] Configuration",
 	["tr"] = "[B] Yapı Menüsü  |  [F2] Oyun Menüsü  |  [F6] Konfig Menüsü",
@@ -85,6 +90,7 @@ ZShelter.L("#BuildHints", {
 })
 
 ZShelter.L("#Shelter", {
+	["ro"] = "",
 	["en"] = "Shelter",
 	["fr"] = "Abri",
 	["tr"] = "Sığınak",
@@ -94,6 +100,7 @@ ZShelter.L("#Shelter", {
 })
 
 ZShelter.L("#Barricade", {
+	["ro"] = "",
 	["en"] = "Barricade",
 	["fr"] = "Barricade",
 	["tr"] = "Barikat",
@@ -103,6 +110,7 @@ ZShelter.L("#Barricade", {
 })
 
 ZShelter.L("#Trap", {
+	["ro"] = "",
 	["en"] = "Trap",
 	["fr"] = "Piège",
 	["tr"] = "Tuzak",
@@ -112,6 +120,7 @@ ZShelter.L("#Trap", {
 })
 
 ZShelter.L("#Turret", {
+	["ro"] = "",
 	["en"] = "Turret",
 	["fr"] = "Tourelle",
 	["tr"] = "Taret",
@@ -121,6 +130,7 @@ ZShelter.L("#Turret", {
 })
 
 ZShelter.L("#Generator", {
+	["ro"] = "",
 	["en"] = "Generator",
 	["fr"] = "Générateur",
 	["tr"] = "Jeneratör",
@@ -130,6 +140,7 @@ ZShelter.L("#Generator", {
 })
 
 ZShelter.L("#Recovery", {
+	["ro"] = "",
 	["en"] = "Recovery",
 	["fr"] = "Ravitaillement",
 	["tr"] = "İyileşme",
@@ -139,6 +150,7 @@ ZShelter.L("#Recovery", {
 })
 
 ZShelter.L("#Storage", {
+	["ro"] = "",
 	["en"] = "Storage",
 	["fr"] = "Stockage",
 	["tr"] = "Depo",
@@ -148,6 +160,7 @@ ZShelter.L("#Storage", {
 })
 
 ZShelter.L("#Public Construction", {
+	["ro"] = "",
 	["en"] = "Public Construction",
 	["fr"] = "Construction Public",
 	["tr"] = "Ortak Yapı",
@@ -157,6 +170,7 @@ ZShelter.L("#Public Construction", {
 })
 
 ZShelter.L("#Wooden Wall", {
+	["ro"] = "",
 	["en"] = "Wooden Wall",
 	["fr"] = "Mur en Bois",
 	["tr"] = "Ahşap Duvar",
@@ -166,6 +180,7 @@ ZShelter.L("#Wooden Wall", {
 })
 
 ZShelter.L("#Wooden Spike Wall", {
+	["ro"] = "",
 	["en"] = "Wooden Spike Wall",
 	["fr"] = "Mur en Bois à Pointes",
 	["ru"] = "Деревянная стена с колышками",
@@ -175,6 +190,7 @@ ZShelter.L("#Wooden Spike Wall", {
 })
 
 ZShelter.L("#Wire Fence", {
+	["ro"] = "",
 	["en"] = "Wire Fence",
 	["fr"] = "Clôture en Fil de Fer",
 	["tr"] = "Tel Çit",
@@ -184,6 +200,7 @@ ZShelter.L("#Wire Fence", {
 })
 
 ZShelter.L("#Metal Wall", {
+	["ro"] = "",
 	["en"] = "Metal Wall",
 	["fr"] = "Mur en Métal",
 	["tr"] = "Metal Duvar",
@@ -193,6 +210,7 @@ ZShelter.L("#Metal Wall", {
 })
 
 ZShelter.L("#Reinforced Wire Fence", {
+	["ro"] = "",
 	["en"] = "Reinforced Wire Fence",
 	["fr"] = "Clôture en Fil de Fer Renforcé",
 	["tr"] = "Güçlendirilmiş Tel Çit",
@@ -202,6 +220,7 @@ ZShelter.L("#Reinforced Wire Fence", {
 })
 
 ZShelter.L("#Metal Gate", {
+	["ro"] = "",
 	["en"] = "Metal Gate",
 	["fr"] = "Portail en Métal",
 	["tr"] = "Metal Geçit",
@@ -211,6 +230,7 @@ ZShelter.L("#Metal Gate", {
 })
 
 ZShelter.L("#Metal Barricade", {
+	["ro"] = "",
 	["en"] = "Metal Barricade",
 	["fr"] = "Barricade en Métal",
 	["tr"] = "Metal Barikat",
@@ -220,6 +240,7 @@ ZShelter.L("#Metal Barricade", {
 })
 
 ZShelter.L("#Concrete Wall", {
+	["ro"] = "",
 	["en"] = "Concrete Wall",
 	["fr"] = "Mur en Béton",
 	["tr"] = "Beton Duvar",
@@ -229,6 +250,7 @@ ZShelter.L("#Concrete Wall", {
 })
 
 ZShelter.L("#Concrete Gate", {
+	["ro"] = "",
 	["en"] = "Concrete Gate",
 	["fr"] = "Portail en Béton",
 	["tr"] = "Beton Geçit",
@@ -238,6 +260,7 @@ ZShelter.L("#Concrete Gate", {
 })
 
 ZShelter.L("#Reinforced Concrete Wall", {
+	["ro"] = "",
 	["en"] = "Reinforced Concrete Wall",
 	["fr"] = "Mur en Béton Armé",
 	["tr"] = "Güçlendirilmiş Beton Duvar",
@@ -247,6 +270,7 @@ ZShelter.L("#Reinforced Concrete Wall", {
 })
 
 ZShelter.L("#Concrete Barricade", {
+	["ro"] = "",
 	["en"] = "Concrete Barricade",
 	["fr"] = "Barricade en Béton",
 	["tr"] = "Beton Barikat",
@@ -256,6 +280,7 @@ ZShelter.L("#Concrete Barricade", {
 })
 
 ZShelter.L("#Landmine", {
+	["ro"] = "",
 	["en"] = "Landmine",
 	["fr"] = "Mine",
 	["tr"] = "Mayın",
@@ -265,6 +290,7 @@ ZShelter.L("#Landmine", {
 })
 
 ZShelter.L("#Razorwire", {
+	["ro"] = "",
 	["en"] = "Razorwire",
 	["fr"] = "Barbelé",
 	["tr"] = "Dikenli Tel",
@@ -274,6 +300,7 @@ ZShelter.L("#Razorwire", {
 })
 
 ZShelter.L("#Claymore", {
+	["ro"] = "",
 	["en"] = "Claymore",
 	["fr"] = "Claymore",
 	["tr"] = "AP Mayını",
@@ -283,6 +310,7 @@ ZShelter.L("#Claymore", {
 })
 
 ZShelter.L("#Freeze Bomb", {
+	["ro"] = "",
 	["en"] = "Freeze Bomb",
 	["fr"] = "Bombe Givrante",
 	["tr"] = "Dondurucu Bomba",
@@ -292,6 +320,7 @@ ZShelter.L("#Freeze Bomb", {
 })
 
 ZShelter.L("#Spike Trap", {
+	["ro"] = "",
 	["en"] = "Spike Trap",
 	["fr"] = "Piège à Pointes",
 	["tr"] = "Dikenli Tuzak",
@@ -301,6 +330,7 @@ ZShelter.L("#Spike Trap", {
 })
 
 ZShelter.L("#Propeller Trap", {
+	["ro"] = "",
 	["en"] = "Propeller Trap",
 	["fr"] = "Piège à Hélice",
 	["tr"] = "Pervane Tuzağı",
@@ -310,6 +340,7 @@ ZShelter.L("#Propeller Trap", {
 })
 
 ZShelter.L("#Flame Trap", {
+	["ro"] = "",
 	["en"] = "Flame Trap",
 	["fr"] = "Mine Incendiaire",
 	["tr"] = "Alev Tuzağı",
@@ -319,6 +350,7 @@ ZShelter.L("#Flame Trap", {
 })
 
 ZShelter.L("#CMB Trap", {
+	["ro"] = "",
 	["en"] = "Cryo Mine",
 	["fr"] = "Mine Cryogénique",
 	["tr"] = "Dondurucu Mayın",
@@ -328,6 +360,7 @@ ZShelter.L("#CMB Trap", {
 })
 
 ZShelter.L("#Gravity Mine", {
+	["ro"] = "",
 	["en"] = "Gravity Mine",
 	["fr"] = "Mine Magnétique",
 	["tr"] = "Yer Çekimi Mayını",
@@ -337,6 +370,7 @@ ZShelter.L("#Gravity Mine", {
 })
 
 ZShelter.L("Laser Trap", {
+	["ro"] = "",
 	["en"] = "Laser Trap",
 	["fr"] = "Piège Laser",
 	["tr"] = "Lazer Tuzağı",
@@ -346,6 +380,7 @@ ZShelter.L("Laser Trap", {
 })
 
 ZShelter.L("#Basic Turret", {
+	["ro"] = "",
 	["en"] = "Basic Turret",
 	["fr"] = "Tourelle Basique",
 	["tr"] = "Temel Taret",
@@ -355,6 +390,7 @@ ZShelter.L("#Basic Turret", {
 })
 
 ZShelter.L("#Mounted Machine Gun", {
+	["ro"] = "",
 	["en"] = "Mounted Machine Gun",
 	["fr"] = "Mitrailleuse Montée",
 	["tr"] = "Monteli Makineli Tüfek",
@@ -364,6 +400,7 @@ ZShelter.L("#Mounted Machine Gun", {
 })
 
 ZShelter.L("#Freeze Turret", {
+	["ro"] = "",
 	["en"] = "Freeze Turret",
 	["fr"] = "Tourelle Givrante",
 	["tr"] = "Dondurucu Taret",
@@ -373,6 +410,7 @@ ZShelter.L("#Freeze Turret", {
 })
 
 ZShelter.L("#Mending Tower", {
+	["ro"] = "",
 	["en"] = "Mending Tower",
 	["fr"] = "Tour de Réparation",
 	["tr"] = "Tamir Kulesi",
@@ -382,6 +420,7 @@ ZShelter.L("#Mending Tower", {
 })
 
 ZShelter.L("#Flame Turret", {
+	["ro"] = "",
 	["en"] = "Flame Turret",
 	["fr"] = "Tourelle Lance-Flamme",
 	["tr"] = "Alev Tareti",
@@ -391,6 +430,7 @@ ZShelter.L("#Flame Turret", {
 })
 
 ZShelter.L("#Blast Turret", {
+	["ro"] = "",
 	["en"] = "Blast Turret",
 	["fr"] = "Tourelle Explosive",
 	["tr"] = "Bomba Tareti",
@@ -400,6 +440,7 @@ ZShelter.L("#Blast Turret", {
 })
 
 ZShelter.L("#Burst Shotgun Turret", {
+	["ro"] = "",
 	["en"] = "Burst Shotgun Turret",
 	["fr"] = "Tourelle à Rafales",
 	["tr"] = "Pompalı Taret",
@@ -409,6 +450,7 @@ ZShelter.L("#Burst Shotgun Turret", {
 })
 
 ZShelter.L("#Enemy Scanner", {
+	["ro"] = "",
 	["en"] = "Enemy Scanner",
 	["fr"] = "Scanner d'Ennemis",
 	["tr"] = "Düşman Tarayıcı",
@@ -418,6 +460,7 @@ ZShelter.L("#Enemy Scanner", {
 })
 
 ZShelter.L("#Minigun Turret", {
+	["ro"] = "",
 	["en"] = "Minigun Turret",
 	["fr"] = "Tourelle Minigun",
 	["tr"] = "Minigun Tareti",
@@ -427,6 +470,7 @@ ZShelter.L("#Minigun Turret", {
 })
 
 ZShelter.L("#Pusher Tower", {
+	["ro"] = "",
 	["en"] = "Pusher Tower",
 	["fr"] = "Tourelle Répulsive",
 	["tr"] = "İtici Kule",
@@ -436,6 +480,7 @@ ZShelter.L("#Pusher Tower", {
 })
 
 ZShelter.L("#Railgun Cannon", {
+	["ro"] = "",
 	["en"] = "Railgun Cannon",
 	["fr"] = "Canon Électromagnétique",
 	["tr"] = "Elektromanyetik Top",
@@ -445,6 +490,7 @@ ZShelter.L("#Railgun Cannon", {
 })
 
 ZShelter.L("#Electric Defense Tower", {
+	["ro"] = "",
 	["en"] = "Electric Defense Tower",
 	["fr"] = "Tour Tesla",
 	["tr"] = "Elektrikli Savunma Kulesi",
@@ -454,6 +500,7 @@ ZShelter.L("#Electric Defense Tower", {
 })
 
 ZShelter.L("#Mortar Cannon", {
+	["ro"] = "",
 	["en"] = "Mortar Cannon",
 	["fr"] = "Mortier",
 	["tr"] = "Havan Topu",
@@ -463,6 +510,7 @@ ZShelter.L("#Mortar Cannon", {
 })
 
 ZShelter.L("#Plasma Turret", {
+	["ro"] = "",
 	["en"] = "Plasma Turret",
 	["fr"] = "Tourelle Plasma",
 	["tr"] = "Plazma Tareti",
@@ -472,6 +520,7 @@ ZShelter.L("#Plasma Turret", {
 })
 
 ZShelter.L("#Laser Turret", {
+	["ro"] = "",
 	["en"] = "Laser Turret",
 	["fr"] = "Tourelle Laser",
 	["tr"] = "Lazer Tareti",
@@ -481,6 +530,7 @@ ZShelter.L("#Laser Turret", {
 })
 
 ZShelter.L("#Gauss Turret", {
+	["ro"] = "",
     ["en"] = "Gauss Turret",
 	["fr"] = "Tourelle Gauss",
     ["tr"] = "Gaus Tareti",
@@ -490,6 +540,7 @@ ZShelter.L("#Gauss Turret", {
 })
 
 ZShelter.L("#Laser Minigun Turret", {
+	["ro"] = "",
     ["en"] = "Laser Minigun Turret",
 	["fr"] = "Tourelle Minigun Laser",
     ["tr"] = "Lazer Minigun Taret",
@@ -499,6 +550,7 @@ ZShelter.L("#Laser Minigun Turret", {
 })
 
 ZShelter.L("#Combine Mortar Cannon", {
+	["ro"] = "",
 	["en"] = "Combine Mortar Cannon",
 	["fr"] = "Mortier du Cartel",
 	["tr"] = "Combine Havan Topu",
@@ -508,6 +560,7 @@ ZShelter.L("#Combine Mortar Cannon", {
 })
 
 ZShelter.L("#Basic Generator", {
+	["ro"] = "",
 	["en"] = "Basic Generator",
 	["fr"] = "Générateur Basique",
 	["tr"] = "Temel Seviye Jeneratör",
@@ -517,6 +570,7 @@ ZShelter.L("#Basic Generator", {
 })
 
 ZShelter.L("#Medium Generator", {
+	["ro"] = "",
 	["en"] = "Medium Generator",
 	["fr"] = "Générateur Moyen",
 	["tr"] = "Orta Seviye Jeneratör",
@@ -526,6 +580,7 @@ ZShelter.L("#Medium Generator", {
 })
 
 ZShelter.L("#Large Generator", {
+	["ro"] = "",
 	["en"] = "Large Generator",
 	["fr"] = "Grand Générateur",
 	["tr"] = "Gelişmiş Jeneratör",
@@ -535,6 +590,7 @@ ZShelter.L("#Large Generator", {
 })
 
 ZShelter.L("#Mega Generator", {
+	["ro"] = "",
 	["en"] = "Mega Generator",
 	["fr"] = "Méga Générateur",
 	["tr"] = "Mega Jeneratör",
@@ -544,6 +600,7 @@ ZShelter.L("#Mega Generator", {
 })
 
 ZShelter.L("#Resource Generator", {
+	["ro"] = "",
 	["en"] = "Resource Generator",
 	["fr"] = "Générateur de Ressources",
 	["tr"] = "Kaynak Jeneratörü",
@@ -553,6 +610,7 @@ ZShelter.L("#Resource Generator", {
 })
 
 ZShelter.L("#Healing Station", {
+	["ro"] = "",
 	["en"] = "Healing Station",
 	["fr"] = "Station de Soins",
 	["tr"] = "Sağlık İstasyonu",
@@ -562,6 +620,7 @@ ZShelter.L("#Healing Station", {
 })
 
 ZShelter.L("#Armor Box", {
+	["ro"] = "",
 	["en"] = "Armor Box",
 	["fr"] = "Boîte d'Armure",
 	["tr"] = "Zırh Kutusu",
@@ -571,6 +630,7 @@ ZShelter.L("#Armor Box", {
 })
 
 ZShelter.L("#Campfire", {
+	["ro"] = "",
 	["en"] = "Campfire",
 	["fr"] = "Feu de Camp",
 	["tr"] = "Kamp Ateşi",
@@ -580,6 +640,7 @@ ZShelter.L("#Campfire", {
 })
 
 ZShelter.L("#Basic Storage", {
+	["ro"] = "",
 	["en"] = "Basic Storage",
 	["fr"] = "Stockage Basique",
 	["tr"] = "Temel Seviye Depo",
@@ -589,6 +650,7 @@ ZShelter.L("#Basic Storage", {
 })
 
 ZShelter.L("#Medium Storage", {
+	["ro"] = "",
 	["en"] = "Medium Storage",
 	["fr"] = "Stockage Moyen",
 	["tr"] = "Orta Seviye Depo",
@@ -598,6 +660,7 @@ ZShelter.L("#Medium Storage", {
 })
 
 ZShelter.L("#Large Storage", {
+	["ro"] = "",
 	["en"] = "Large Storage",
 	["fr"] = "Grand Stockage",
 	["tr"] = "Gelişmiş Depo",
@@ -607,6 +670,7 @@ ZShelter.L("#Large Storage", {
 })
 
 ZShelter.L("#Worktable", {
+	["ro"] = "",
 	["en"] = "Worktable",
 	["fr"] = "Établi",
 	["tr"] = "Çalışma Masası",
@@ -616,6 +680,7 @@ ZShelter.L("#Worktable", {
 })
 
 ZShelter.L("#Ammo Supply Crate", {
+	["ro"] = "",
 	["en"] = "Ammo Supply Crate",
 	["fr"] = "Caisse de Munitions",
 	["tr"] = "Cephane İkmal Sandığı",
@@ -625,6 +690,7 @@ ZShelter.L("#Ammo Supply Crate", {
 })
 
 ZShelter.L("#Cement Mixer", {
+	["ro"] = "",
 	["en"] = "Cement Mixer",
 	["fr"] = "Centrale à Béton",
 	["tr"] = "Beton Karıştırıcı",
@@ -634,6 +700,7 @@ ZShelter.L("#Cement Mixer", {
 })
 
 ZShelter.L("#Comm Tower", {
+	["ro"] = "",
 	["en"] = "Comm Tower",
 	["fr"] = "Tour Radio",
 	["tr"] = "İletişim Kulesi",
@@ -643,6 +710,7 @@ ZShelter.L("#Comm Tower", {
 })
 
 ZShelter.L("#Ready", {
+	["ro"] = "",
 	["en"] = "Ready",
 	["fr"] = "Prêt",
 	["tr"] = "Hazır",
@@ -652,6 +720,7 @@ ZShelter.L("#Ready", {
 })
 
 ZShelter.L("#Not Ready", {
+	["ro"] = "",
 	["en"] = "Not Ready",
 	["fr"] = "En Attente",
 	["tr"] = "Hazır Değil",
@@ -661,6 +730,7 @@ ZShelter.L("#Not Ready", {
 })
 
 ZShelter.L("#ReadyHint", {
+	["ro"] = "",
 	["en"] = "Press F4 to ready",
 	["fr"] = "Appuyez sur F4 pour vous mettre prêt",
 	["tr"] = "Hazır olmak için F4'e basın",
@@ -670,6 +740,7 @@ ZShelter.L("#ReadyHint", {
 })
 
 ZShelter.L("#Map", {
+	["ro"] = "",
 	["en"] = "Map",
 	["fr"] = "Carte",
 	["tr"] = "Harita",
@@ -679,6 +750,7 @@ ZShelter.L("#Map", {
 })
 
 ZShelter.L("#Dif1", {
+	["ro"] = "",
 	["en"] = "Easy",
 	["fr"] = "Facile",
 	["tr"] = "Kolay",
@@ -688,6 +760,7 @@ ZShelter.L("#Dif1", {
 })
 
 ZShelter.L("#Dif2", {
+	["ro"] = "",
 	["en"] = "Normal",
 	["fr"] = "Normale",
 	["tr"] = "Normal",
@@ -697,6 +770,7 @@ ZShelter.L("#Dif2", {
 })
 
 ZShelter.L("#Dif3", {
+	["ro"] = "",
 	["en"] = "Hard",
 	["fr"] = "Difficile",
 	["tr"] = "Zor",
@@ -706,6 +780,7 @@ ZShelter.L("#Dif3", {
 })
 
 ZShelter.L("#Dif4", {
+	["ro"] = "",
 	["en"] = "Expert",
 	["fr"] = "Expert",
 	["tr"] = "Uzman",
@@ -715,6 +790,7 @@ ZShelter.L("#Dif4", {
 })
 
 ZShelter.L("#Dif5", {
+	["ro"] = "",
 	["en"] = "Insane",
 	["fr"] = "Extrême",
 	["tr"] = "Deli",
@@ -724,6 +800,7 @@ ZShelter.L("#Dif5", {
 })
 
 ZShelter.L("#Dif6", {
+	["ro"] = "",
 	["en"] = "Nightmare",
 	["fr"] = "Cauchemar",
 	["tr"] = "Kâbus",
@@ -733,6 +810,7 @@ ZShelter.L("#Dif6", {
 })
 
 ZShelter.L("#Dif7", {
+	["ro"] = "",
 	["en"] = "Apocalypse",
 	["fr"] = "Apocalypse",
 	["tr"] = "Kıyamet",
@@ -742,6 +820,7 @@ ZShelter.L("#Dif7", {
 })
 
 ZShelter.L("#Dif8", {
+	["ro"] = "",
 	["en"] = "Apocalypse+",
 	["fr"] = "Apocalypse+",
 	["tr"] = "Kıyamet+",
@@ -751,6 +830,7 @@ ZShelter.L("#Dif8", {
 })
 
 ZShelter.L("#Dif9", {
+	["ro"] = "",
 	["en"] = "Hell",
 	["fr"] = "Enfer",
 	["tr"] = "Cehennem",
@@ -760,6 +840,7 @@ ZShelter.L("#Dif9", {
 })
 
 ZShelter.L("#Woods", {
+	["ro"] = "",
 	["en"] = "Woods",
 	["fr"] = "Bois",
 	["tr"] = "Ahşap",
@@ -769,6 +850,7 @@ ZShelter.L("#Woods", {
 })
 
 ZShelter.L("#Irons", {
+	["ro"] = "",
 	["en"] = "Irons",
 	["fr"] = "Fers",
 	["tr"] = "Demir",
@@ -778,6 +860,7 @@ ZShelter.L("#Irons", {
 })
 
 ZShelter.L("#Contribute", {
+	["ro"] = "",
 	["en"] = "Contribute",
 	["fr"] = "Contribution",
 	["tr"] = "Katkı",
@@ -787,6 +870,7 @@ ZShelter.L("#Contribute", {
 })
 
 ZShelter.L("#Deaths", {
+	["ro"] = "",
 	["en"] = "Deaths",
 	["fr"] = "Morts",
 	["tr"] = "Ölüm",
@@ -796,6 +880,7 @@ ZShelter.L("#Deaths", {
 })
 
 ZShelter.L("#Name", {
+	["ro"] = "",
 	["en"] = "Name",
 	["fr"] = "Nom",
 	["tr"] = "Ad",
@@ -805,6 +890,7 @@ ZShelter.L("#Name", {
 })
 
 ZShelter.L("#TK", {
+	["ro"] = "",
 	["en"] = "TK",
 	["fr"] = "TK",
 	["tr"] = "TÖ",
@@ -814,6 +900,7 @@ ZShelter.L("#TK", {
 })
 
 ZShelter.L("#CommHint", {
+	["ro"] = "",
 	["en"] = "Comm Tower can be used now!",
 	["fr"] = "La Tour Radio peut être utilisée maintenant !",
 	["tr"] = "İletişim kulesi şimdi kullanılabilir!",
@@ -823,6 +910,7 @@ ZShelter.L("#CommHint", {
 })
 
 ZShelter.L("#SummeryStats", {
+	["ro"] = "",
 	["en"] = "Stats",
 	["fr"] = "Statistiques",
 	["tr"] = "İstatistik",
@@ -832,6 +920,7 @@ ZShelter.L("#SummeryStats", {
 })
 
 ZShelter.L("#TotalPlayTime", {
+	["ro"] = "",
 	["en"] = "Total Playtime : <VAR>",
 	["fr"] = "Durée de la partie : <VAR>",
 	["tr"] = "Toplam Oynama Süresi: <VAR>",
@@ -841,6 +930,7 @@ ZShelter.L("#TotalPlayTime", {
 })
 
 ZShelter.L("#TotalKills", {
+	["ro"] = "",
 	["en"] = "Total Enemy Killed",
 	["fr"] = "Ennemis Tués",
 	["tr"] = "Toplam Öldürülen Düşman",
@@ -850,6 +940,7 @@ ZShelter.L("#TotalKills", {
 })
 
 ZShelter.L("#TotalWoods", {
+	["ro"] = "",
 	["en"] = "Total Woods Gathered",
 	["fr"] = "Bois collectés",
 	["tr"] = "Toplam Biriktirilen Ahşap",
@@ -859,6 +950,7 @@ ZShelter.L("#TotalWoods", {
 })
 
 ZShelter.L("#TotalIrons", {
+	["ro"] = "",
 	["en"] = "Total Irons Gathered",
 	["fr"] = "Fers collectés",
 	["tr"] = "Toplam Biriktirilen Demir",
@@ -868,6 +960,7 @@ ZShelter.L("#TotalIrons", {
 })
 
 ZShelter.L("#TotalBuilds", {
+	["ro"] = "",
 	["en"] = "Total Structure Built",
 	["fr"] = "Structure Construite",
 	["tr"] = "Toplam İnşa Edilen Yapı",
@@ -877,6 +970,7 @@ ZShelter.L("#TotalBuilds", {
 })
 
 ZShelter.L("#PublicStorageHint", {
+	["ro"] = "",
 	["en"] = "Resources in storage",
 	["fr"] = "Ressources en Stock",
 	["tr"] = "Kaynaklar deponda",
@@ -886,6 +980,7 @@ ZShelter.L("#PublicStorageHint", {
 })
 
 ZShelter.L("#PersonalStorageHint", {
+	["ro"] = "",
 	["en"] = "Resources in backpack",
 	["fr"] = "Ressources dans le sac à dos",
 	["tr"] = "Kaynaklar sırt çantanda",
@@ -895,6 +990,7 @@ ZShelter.L("#PersonalStorageHint", {
 })
 
 ZShelter.L("#UpgradeHint", {
+	["ro"] = "",
 	["en"] = "Hold E to upgrade",
 	["fr"] = "Restez appuyé sur E pour améliorer",
 	["tr"] = "Geliştirmek için E'ye basılı tut",
@@ -904,6 +1000,7 @@ ZShelter.L("#UpgradeHint", {
 })
 
 ZShelter.L("#Combat", {
+	["ro"] = "",
 	["en"] = "Combat",
 	["fr"] = "Combat",
 	["tr"] = "Savaş",
@@ -913,6 +1010,7 @@ ZShelter.L("#Combat", {
 })
 
 ZShelter.L("#Survival", {
+	["ro"] = "",
 	["en"] = "Survival",
 	["fr"] = "Survie",
 	["tr"] = "Hayatta Kalma",
@@ -922,6 +1020,7 @@ ZShelter.L("#Survival", {
 })
 
 ZShelter.L("#Engineer", {
+	["ro"] = "",
 	["en"] = "Engineer",
 	["fr"] = "Ingénierie",
 	["tr"] = "Mühendislik",
@@ -931,6 +1030,7 @@ ZShelter.L("#Engineer", {
 })
 
 ZShelter.L("#Pistol", {
+	["ro"] = "",
 	["en"] = "Pistol",
 	["fr"] = "Pistolet",
 	["tr"] = "Tabanca",
@@ -940,6 +1040,7 @@ ZShelter.L("#Pistol", {
 })
 
 ZShelter.L("#SMG", {
+	["ro"] = "",
 	["en"] = "SMG",
 	["fr"] = "SMG",
 	["tr"] = "SMG",
@@ -949,6 +1050,7 @@ ZShelter.L("#SMG", {
 })
 
 ZShelter.L("#Shotgun", {
+	["ro"] = "",
 	["en"] = "Shotgun",
 	["fr"] = "Fusil à Pompe",
 	["tr"] = "Pompalı Tüfek",
@@ -958,6 +1060,7 @@ ZShelter.L("#Shotgun", {
 })
 
 ZShelter.L("#Rifle", {
+	["ro"] = "",
 	["en"] = "Rifle",
 	["fr"] = "Fusil",
 	["tr"] = "Tüfek",
@@ -967,6 +1070,7 @@ ZShelter.L("#Rifle", {
 })
 
 ZShelter.L("#Heavy", {
+	["ro"] = "",
 	["en"] = "Heavy",
 	["fr"] = "Arme Lourde",
 	["tr"] = "Ağır",
@@ -976,6 +1080,7 @@ ZShelter.L("#Heavy", {
 })
 
 ZShelter.L("#Close", {
+	["ro"] = "",
 	["en"] = "Close",
 	["fr"] = "Fermer",
 	["tr"] = "Kapat",
@@ -985,6 +1090,7 @@ ZShelter.L("#Close", {
 })
 
 ZShelter.L("#ShelterNick", {
+	["ro"] = "",
 	["en"] = "Tier <VAR> Shelter",
 	["fr"] = "Abri Niveau <VAR>",
 	["tr"] = "Seviye <VAR> Sığınak",
@@ -994,6 +1100,7 @@ ZShelter.L("#ShelterNick", {
 })
 
 ZShelter.L("#ShelterPos", {
+	["ro"] = "",
 	["en"] = "Shelter Spawn Point",
 	["fr"] = "Point d'Apparitions de l'Abri",
 	["tr"] = "Sığınak Canlanma Noktası",
@@ -1003,6 +1110,7 @@ ZShelter.L("#ShelterPos", {
 })
 
 ZShelter.L("#ShelterDesc", {
+	["ro"] = "",
 	["en"] = "Position for shelter to spawn, require at least one to make the game playable",
 	["fr"] = "Emplacement pour la création de l'abri, il est nécessaire d'en avoir un pour que le jeu soit jouable.",
 	["tr"] = "Canlanmak için sığınak pozisyonu, oyunun oynanabilmesi için en az bir tane gerekli",
@@ -1012,6 +1120,7 @@ ZShelter.L("#ShelterDesc", {
 })
 
 ZShelter.L("#BarricadePos", {
+	["ro"] = "",
 	["en"] = "Barricades",
 	["fr"] = "Barricades",
 	["tr"] = "Barikatlar",
@@ -1021,6 +1130,7 @@ ZShelter.L("#BarricadePos", {
 })
 
 ZShelter.L("#BarricadeDesc", {
+	["ro"] = "",
 	["en"] = "A big container used to block player's path",
 	["fr"] = "Un grand conteneur utilisé pour bloquer le passage des joueurs",
 	["tr"] = "Oyuncuyu engellemek için büyük bir konteyner",
@@ -1030,6 +1140,7 @@ ZShelter.L("#BarricadeDesc", {
 })
 
 ZShelter.L("#TreasurePos", {
+	["ro"] = "",
 	["en"] = "Treasure Area",
 	["fr"] = "Zone de Trésor",
 	["tr"] = "Hazine Alanı",
@@ -1039,6 +1150,7 @@ ZShelter.L("#TreasurePos", {
 })
 
 ZShelter.L("#TreasureDesc", {
+	["ro"] = "",
 	["en"] = "Area that spawns a boss and alot of resources everyday",
 	["fr"] = "Une zone qui fait apparaître un boss et beaucoup de ressources tous les jours",
 	["tr"] = "Her gün patron oluşturan ve birçok kaynak üreten bir alan",
@@ -1048,6 +1160,7 @@ ZShelter.L("#TreasureDesc", {
 })
 
 ZShelter.L("#BonusPos", {
+	["ro"] = "",
 	["en"] = "Resource Bonus Area",
 	["fr"] = "Zone de Ressources Bonus",
 	["tr"] = "Kaynak Bonusu Alanı",
@@ -1057,6 +1170,7 @@ ZShelter.L("#BonusPos", {
 })
 
 ZShelter.L("#BonusDesc", {
+	["ro"] = "",
 	["en"] = "An area that spawns extra resources without bosses",
 	["fr"] = "Une zone qui fait apparaître des ressources supplémentaires sans boss.",
 	["tr"] = "Patron oluşturmadan fazladan kaynak üreten bir alan",
@@ -1066,6 +1180,7 @@ ZShelter.L("#BonusDesc", {
 })
 
 ZShelter.L("#FinishSettings", {
+	["ro"] = "",
 	["en"] = "Save map config",
 	["fr"] = "Sauvegarder la configuration de la carte",
 	["tr"] = "Harita konfigürasyonunu kaydet",
@@ -1075,6 +1190,7 @@ ZShelter.L("#FinishSettings", {
 })
 
 ZShelter.L("#UnsupportedMap1", {
+	["ro"] = "",
 	["en"] = "Unsupported Map!",
 	["fr"] = "Carte non supportée !",
 	["tr"] = "Desteklenmeyen Harita!",
@@ -1084,6 +1200,7 @@ ZShelter.L("#UnsupportedMap1", {
 })
 
 ZShelter.L("#UnsupportedMapEditMode", {
+	["ro"] = "",
 	["en"] = "Press F3 to enter edit mode!",
 	["fr"] = "Appuyez sur F3 pour passer en mode édition !",
 	["tr"] = "Düzenleme moduna girmek için F3'e bas!",
@@ -1093,6 +1210,7 @@ ZShelter.L("#UnsupportedMapEditMode", {
 })
 
 ZShelter.L("#EditModeHint", {
+	["ro"] = "",
 	["en"] = "Press G to open settings menu",
 	["fr"] = "Appuyez sur G pour ouvrir le menu des paramètres",
 	["tr"] = "Ayarlar menüsünü açmak için G'ye bas",
@@ -1102,6 +1220,7 @@ ZShelter.L("#EditModeHint", {
 })
 
 ZShelter.L("#EditModeHintPlace", {
+	["ro"] = "",
 	["en"] = "Left Click - Continue | Right Click - Cancel | R - Rotate",
 	["fr"] = "Clic gauche - Continuer | Clic droit - Annuler | R -  Pivoter",
 	["tr"] = "Sol Tık - Devam | Sağ Tık - İptal | R - Döndür",
@@ -1111,6 +1230,7 @@ ZShelter.L("#EditModeHintPlace", {
 })
 
 ZShelter.L("#EditModeHintAim", {
+	["ro"] = "",
 	["en"] = "Right Click - Remove",
 	["fr"] = "Clic droit - Supprimer",
 	["tr"] = "Sağ Tık - Kaldır",
@@ -1120,6 +1240,7 @@ ZShelter.L("#EditModeHintAim", {
 })
 
 ZShelter.L("#AvgFail", {
+	["ro"] = "",
 	["en"] = "Average fail on <VAR> difficulty",
 	["fr"] = "Moyenne d'échecs en difficulté <VAR>.",
 	["tr"] = "<VAR> zorluğunda ortalama başarısızlık",
@@ -1129,6 +1250,7 @@ ZShelter.L("#AvgFail", {
 })
 
 ZShelter.L("#TotalPlayed", {
+	["ro"] = "",
 	["en"] = "<VAR> Plays recorded",
 	["fr"] = "Joueurs enregistrés: <VAR>",
 	["tr"] = "Toplam Oynanma: <VAR>",
@@ -1138,6 +1260,7 @@ ZShelter.L("#TotalPlayed", {
 })
 
 ZShelter.L("#TotalFailed", {
+	["ro"] = "",
 	["en"] = "<VAR> Failed",
 	["fr"] = "<VAR> Échec",
 	["tr"] = "<VAR> Başarısız Oldu",
@@ -1147,6 +1270,7 @@ ZShelter.L("#TotalFailed", {
 })
 
 ZShelter.L("#WinFailRatio", {
+	["ro"] = "",
 	["en"] = "Win/Fail Ratio : <VAR>",
 	["fr"] = "Taux de victoire/échec : <VAR>",
 	["tr"] = "Kazanma/Yenilgi Oranı: <VAR>",
@@ -1156,6 +1280,7 @@ ZShelter.L("#WinFailRatio", {
 })
 
 ZShelter.L("#OnlinePlayers", {
+	["ro"] = "",
 	["en"] = "Online Players : <VAR>",
 	["fr"] = "Joueurs en ligne: <VAR>",
 	["tr"] = "Çevrim İçi Oyuncu: <VAR>",
@@ -1165,6 +1290,7 @@ ZShelter.L("#OnlinePlayers", {
 })
 
 ZShelter.L("#Fetching", {
+	["ro"] = "",
 	["en"] = "Fetching..",
 	["fr"] = "Récupération..",
 	["tr"] = "Getiriliyor..",
@@ -1174,6 +1300,7 @@ ZShelter.L("#Fetching", {
 })
 
 ZShelter.L("#FindOtherPlayer", {
+	["ro"] = "",
 	["en"] = "Look for other players to play with!",
 	["fr"] = "Trouvez d'autres joueurs avec qui jouer !",
 	["tr"] = "Oynamak için oyuncu ara!",
@@ -1183,6 +1310,7 @@ ZShelter.L("#FindOtherPlayer", {
 })
 
 ZShelter.L("#NDay", {
+	["ro"] = "",
 	["en"] = "Day <VAR>",
 	["fr"] = "Jour <VAR>",
 	["tr"] = "Gün <VAR>",
@@ -1192,6 +1320,7 @@ ZShelter.L("#NDay", {
 })
 
 ZShelter.L("#ConnectionHint", {
+	["ro"] = "",
 	["en"] = "Connection might take a while, please be patient",
 	["fr"] = "La connexion peut prendre un certain temps, veuillez patienter",
 	["tr"] = "Bağlanmak biraz sürebilir, lütfen sabırlı olun",
@@ -1201,6 +1330,7 @@ ZShelter.L("#ConnectionHint", {
 })
 
 ZShelter.L("#Updates", {
+	["ro"] = "",
 	["en"] = "Updates",
 	["fr"] = "Mises à Jour",
 	["tr"] = "Güncellemeler",
@@ -1210,6 +1340,7 @@ ZShelter.L("#Updates", {
 })
 
 ZShelter.L("#Statistics", {
+	["ro"] = "",
 	["en"] = "Statistics",
 	["fr"] = "Statistiques",
 	["tr"] = "İstatistik",
@@ -1219,6 +1350,7 @@ ZShelter.L("#Statistics", {
 })
 
 ZShelter.L("#Looking2play", {
+	["ro"] = "",
 	["en"] = "Looking to play",
 	["fr"] = "Joueurs",
 	["tr"] = "Oyun oynamak istiyor",
@@ -1228,6 +1360,7 @@ ZShelter.L("#Looking2play", {
 })
 
 ZShelter.L("#LocalSv", {
+	["ro"] = "",
 	["en"] = "Local Server",
 	["fr"] = "Serveur Local",
 	["tr"] = "Yerel Sunucu",
@@ -1237,6 +1370,7 @@ ZShelter.L("#LocalSv", {
 })
 
 ZShelter.L("#Summery", {
+	["ro"] = "",
 	["en"] = "Summary",
 	["fr"] = "Sommaire",
 	["tr"] = "Özet",
@@ -1246,6 +1380,7 @@ ZShelter.L("#Summery", {
 })
 
 ZShelter.L("#MapVote", {
+	["ro"] = "",
 	["en"] = "Map Vote",
 	["fr"] = "Vote de la Carte",
 	["tr"] = "Harita Oylama",
@@ -1255,6 +1390,7 @@ ZShelter.L("#MapVote", {
 })
 
 ZShelter.L("#Defeat", {
+	["ro"] = "",
 	["en"] = "Defeat!",
 	["fr"] = "Défaite !",
 	["tr"] = "Mağlubiyet!",
@@ -1264,6 +1400,7 @@ ZShelter.L("#Defeat", {
 })
 
 ZShelter.L("#ShelterDestroyed", {
+	["ro"] = "",
 	["en"] = "Shelter has been destroyed!",
 	["fr"] = "L'Abri a été détruit !",
 	["tr"] = "Sığınak yok edildi!",
@@ -1273,6 +1410,7 @@ ZShelter.L("#ShelterDestroyed", {
 })
 
 ZShelter.L("#Victory", {
+	["ro"] = "",
 	["en"] = "Victory!",
 	["fr"] = "Victoire !",
 	["tr"] = "Galibiyet!",
@@ -1282,6 +1420,7 @@ ZShelter.L("#Victory", {
 })
 
 ZShelter.L("#Survived30Day", {
+	["ro"] = "",
 	["en"] = "Successfully survived to day 30",
 	["fr"] = "Vous avez survécu jusqu'au 30ème jour",
 	["tr"] = "Başarıyla 30. güne kadar hayatta kalındı",
@@ -1291,6 +1430,7 @@ ZShelter.L("#Survived30Day", {
 })
 
 ZShelter.L("#Survived15Day", {
+	["ro"] = "",
 	["en"] = "Successfully survived to day 15",
 	["fr"] = "Vous avez survécu jusqu'au 15ème jour",
 	["tr"] = "Başarıyla 15. güne kadar hayatta kalındı",
@@ -1300,6 +1440,7 @@ ZShelter.L("#Survived15Day", {
 })
 
 ZShelter.L("#PTS", {
+	["ro"] = "",
 	["en"] = "<VAR> pts",
 	["fr"] = "<VAR> points",
 	["tr"] = "<VAR> puan",
@@ -1309,6 +1450,7 @@ ZShelter.L("#PTS", {
 })
 
 ZShelter.L("#MVP", {
+	["ro"] = "",
 	["en"] = "[MVP] <VAR>",
 	["fr"] = "[MJ] <VAR>",
 	["tr"] = "[EDO] <VAR>",
@@ -1318,6 +1460,7 @@ ZShelter.L("#MVP", {
 })
 
 ZShelter.L("#ServerList", {
+	["ro"] = "",
 	["en"] = "Server List",
 	["fr"] = "Serveurs",
 	["tr"] = "Sunucu Listesi",
@@ -1327,6 +1470,7 @@ ZShelter.L("#ServerList", {
 })
 
 ZShelter.L("#ServerListHint", {
+	["ro"] = "",
 	["en"] = "Servers on this list are running Zombie Shelter v2",
 	["fr"] = "Les serveurs de cette liste hébergent la v2 de Zombie Shelter.",
 	["tr"] = "Bu listedeki sunucular Zombie Shelter v2 çalıştırıyor",
@@ -1336,6 +1480,7 @@ ZShelter.L("#ServerListHint", {
 })
 
 ZShelter.L("#ServerListAddr", {
+	["ro"] = "",
 	["en"] = "Address : <VAR>",
 	["fr"] = "Adresse IP: <VAR>",
 	["tr"] = "IP Adresi : <VAR>",
@@ -1345,6 +1490,7 @@ ZShelter.L("#ServerListAddr", {
 })
 
 ZShelter.L("#ServerListClick", {
+	["ro"] = "",
 	["en"] = "Click to join",
 	["fr"] = "Cliquez pour rejoindre",
 	["tr"] = "Katılmak için tıkla",
@@ -1354,6 +1500,7 @@ ZShelter.L("#ServerListClick", {
 })
 
 ZShelter.L("#SpawnPointExtra", {
+	["ro"] = "",
 	["en"] = "Enemy Spawn Point",
 	["fr"] = "Point d'Apparition des Ennemis",
 	["tr"] = "Düşman Doğma Noktası",
@@ -1363,6 +1510,7 @@ ZShelter.L("#SpawnPointExtra", {
 })
 
 ZShelter.L("#SpawnPointExtraDesc", {
+	["ro"] = "",
 	["en"] = "An extra spawn point for enemy to spawn",
 	["fr"] = "Point d'apparition supplémentaire pour les ennemis",
 	["tr"] = "Düşmanın doğması için fazladan bir doğma noktası",
@@ -1372,6 +1520,7 @@ ZShelter.L("#SpawnPointExtraDesc", {
 })
 
 ZShelter.L("#SpawnPointDedicated", {
+	["ro"] = "",
 	["en"] = "Dedicated Enemy Spawn Point",
 	["fr"] = "Point d'Apparitions Dédié aux Ennemis",
 	["tr"] = "Özel Düşman Doğma Noktası",
@@ -1381,6 +1530,7 @@ ZShelter.L("#SpawnPointDedicated", {
 })
 
 ZShelter.L("#SpawnPointDedicatedDesc", {
+	["ro"] = "",
 	["en"] = "An DEDICATED spawn point, if you placed any of this enemy will be spawn at this fixed position",
 	["fr"] = "Point d'apparition DÉDIÉ, si vous en placez un les ennemis apparaîtront à cette position fixe.",
 	["tr"] = "ÖZEL bir doğma noktası, eğer bu düşmandan herhangi birini yerleştirirsen, bu sabit konumda doğacak",
@@ -1390,6 +1540,7 @@ ZShelter.L("#SpawnPointDedicatedDesc", {
 })
 
 ZShelter.L("#ManualControl", {
+	["ro"] = "",
     ["en"] = "Press middle mouse to control",
 	["fr"] = "Appuyer sur la molette de la souris pour contrôler",
     ["tr"] = "Kontrol etmek için fare tekerleğini kullanın",
@@ -1399,6 +1550,7 @@ ZShelter.L("#ManualControl", {
 })
 
 ZShelter.L("#EnemyList", {
+	["ro"] = "",
     ["en"] = "Enemies",
 	["fr"] = "Ennemis",
     ["tr"] = "Düşmanlar",
@@ -1408,6 +1560,7 @@ ZShelter.L("#EnemyList", {
 })
 
 ZShelter.L("#EnemyListTitle", {
+	["ro"] = "",
     ["en"] = "Enemies on <VAR> difficulty",
 	["fr"] = "Ennemis en difficulté <VAR>",
     ["tr"] = "<VAR> zorluğunda düşmanlar",
@@ -1417,6 +1570,7 @@ ZShelter.L("#EnemyListTitle", {
 })
 
 ZShelter.L("#EnemyListHPBoost", {
+	["ro"] = "",
     ["en"] = "[Day x <VAR>]",
 	["fr"] = "[Jour x <VAR>]",
     ["tr"] = "[Gün Sayısı x <VAR>]",
