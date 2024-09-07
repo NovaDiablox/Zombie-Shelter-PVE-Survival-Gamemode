@@ -25,6 +25,7 @@
 
 ZShelter.AddInfo("Health Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Health Boost",
 		["fr"] = "Vitalité Croissante",
 		["tr"] = "Sağlık",
@@ -33,6 +34,7 @@ ZShelter.AddInfo("Health Boost", {
 		["ru"] = "Укрепление здоровья",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases your maximum health everyday, +15 per upgrade",
 		["fr"] = "Augmente votre santé maximale tous les jours, +15 par amélioration",
 		["tr"] = "Her gün maksimum sağlığınızı artırır, yükseltme başına +15",
@@ -44,6 +46,7 @@ ZShelter.AddInfo("Health Boost", {
 
 ZShelter.AddInfo("Damage Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Damage Boost",
 		["fr"] = " Dégât Amélioré",
 		["tr"] = "Hasar",
@@ -52,6 +55,7 @@ ZShelter.AddInfo("Damage Boost", {
 		["ru"] = "Усиление урона",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases your damage to enemies (excluding buildings), +10% per upgrade",
 		["fr"] = "Augmente les dégâts infligés aux ennemis ( sauf les bâtiments), +10% par amélioration",
 		["tr"] = "Düşmanlara verilen hasarı artırır (yapılar hariç), yükseltme başına +%10",
@@ -63,6 +67,7 @@ ZShelter.AddInfo("Damage Boost", {
 
 ZShelter.AddInfo("Damage Boostx1", {
 	title = {
+		["ro"] = "",
 		["en"] = "Damage Boost",
 		["fr"] = "Dégât Amélioré",
 		["tr"] = "Hasar",
@@ -71,6 +76,7 @@ ZShelter.AddInfo("Damage Boostx1", {
 		["ru"] = "Усиление урона",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases your damage to enemies (excluding buildings), +15% per upgrade",
 		["fr"] = "Augmente les dégâts infligés aux ennemis ( sauf les bâtiments), +15% par amélioration.",
 		["tr"] = "Düşmanlara verilen hasarı artırır (yapılar hariç), yükseltme başına +%15",
@@ -82,6 +88,7 @@ ZShelter.AddInfo("Damage Boostx1", {
 
 ZShelter.AddInfo("Damage Boostx2", {
 	title = {
+		["ro"] = "",
 		["en"] = "Damage Boost",
 		["fr"] = "Dégât Amélioré",
 		["tr"] = "Hasar",
@@ -90,6 +97,7 @@ ZShelter.AddInfo("Damage Boostx2", {
 		["ru"] = "Усиление урона",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases your damage to enemies (excluding buildings), +25% per upgrade",
 		["fr"] = "Augmente les dégâts infligés aux ennemis ( sauf les bâtiments), +25% par amélioration",
 		["tr"] = "Düşmanlara verilen hasarı artırır (yapılar hariç), yükseltme başına +%25",
@@ -101,6 +109,7 @@ ZShelter.AddInfo("Damage Boostx2", {
 
 ZShelter.AddInfo("Looting", {
 	title = {
+		["ro"] = "",
 		["en"] = "Looting",
 		["fr"] = "Butin",
 		["tr"] = "Yağma",
@@ -109,6 +118,7 @@ ZShelter.AddInfo("Looting", {
 		["ru"] = "Добыча",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Drops resource bag when killing an enemy, +10% chance per upgrade",
 		["fr"] = "Les ennemis peuvent faire tomber un sac de ressources lorsqu'ils sont tués, +10% de chances par amélioration",
 		["tr"] = "Düşman öldürdüğünüzde kaynak düşürür, yükseltme başına +%10",
@@ -120,6 +130,7 @@ ZShelter.AddInfo("Looting", {
 
 ZShelter.AddInfo("Armor Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Armor Boost",
 		["fr"] = "Armure Amélioré",
 		["tr"] = "Zırh Takviyesi",
@@ -128,6 +139,7 @@ ZShelter.AddInfo("Armor Boost", {
 		["ru"] = "Укрепление брони",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases maximum armor, +50 per upgrade",
 		["fr"] = "Augmente votre armure maximale, +50 par amélioration",
 		["tr"] = "Maksimum zırhı artırır, yükseltme başına +50",
@@ -139,6 +151,7 @@ ZShelter.AddInfo("Armor Boost", {
 
 ZShelter.AddInfo("Machete Upgrade", {
 	title = {
+		["ro"] = "",
 		["en"] = "Machete Upgrade",
 		["fr"] = "Machette",
 		["tr"] = "Pala Yükseltmesi",
@@ -147,6 +160,7 @@ ZShelter.AddInfo("Machete Upgrade", {
 		["ru"] = "Переход на мачете",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Upgrades your melee weapon to machete (+173% damage)",
 		["fr"] = "Améliore votre arme de mêlée en machette (+173% de dégâts)",
 		["tr"] = "Yakın dövüş silahınızı palaya yükseltir (+%173 hasar)",
@@ -158,6 +172,7 @@ ZShelter.AddInfo("Machete Upgrade", {
 
 ZShelter.AddInfo("Damage Resistance", {
 	title = {
+		["ro"] = "",
 		["en"] = "Damage Resistance",
 		["fr"] = "Résistance aux Dégâts",
 		["tr"] = "Hasar Direnci",
@@ -166,6 +181,7 @@ ZShelter.AddInfo("Damage Resistance", {
 		["ru"] = "Сопротивление урону",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Receives less damage from all sources, +20% per upgrade",
 		["fr"] = "Réduit les dégâts de tout type, +20% par amélioration",
 		["tr"] = "Bütün hasar kaynaklarından daha az hasar alırsınız, yükseltme başına +%20",
@@ -177,6 +193,7 @@ ZShelter.AddInfo("Damage Resistance", {
 
 ZShelter.AddInfo("Grenade Supply", {
 	title = {
+		["ro"] = "",
 		["en"] = "Grenade Supply",
 		["fr"] = "Ravitaillement en Grenades",
 		["tr"] = "El Bombası Tedariği",
@@ -185,6 +202,7 @@ ZShelter.AddInfo("Grenade Supply", {
 		["ru"] = "Поставка гранат",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Regenerates a grenade every 15 seconds",
 		["fr"] = "Vous obtenez une grenade toutes les 15 secondes",
 		["tr"] = "15 saniyede bir el bombası üretir",
@@ -196,6 +214,7 @@ ZShelter.AddInfo("Grenade Supply", {
 
 ZShelter.AddInfo("Double Tap", {
     title = {
+		["ro"] = "",
         ["en"] = "Double Tap",
 		["fr"] = "Double Coups",
         ["tr"] = "İki Kat Hasar",
@@ -204,6 +223,7 @@ ZShelter.AddInfo("Double Tap", {
         ["ru"] = "Контрольный выстрел",
     },
     desc = {
+		["ro"] = "",
         ["en"] = "+25% chance to deal double damage every upgrade",
 		["fr"] = "+25% de chances d'infliger des dégâts double à chaque amélioration",
         ["tr"] = "Her yükseltmede iki kat hasar verme şansınızı +%25 artırın",
@@ -215,6 +235,7 @@ ZShelter.AddInfo("Double Tap", {
 
 ZShelter.AddInfo("Melee Stunning", {
 	title = {
+		["ro"] = "",
 		["en"] = "Melee Stunning",
 		["fr"] = "Coups Étourdissants",
 		["tr"] = "Yakın Dövüş Sersemletmesi",
@@ -223,6 +244,7 @@ ZShelter.AddInfo("Melee Stunning", {
 		["ru"] = "Оглушение в ближнем бою",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Stun enemies for 0.75s when using melee with secondary attack",
 		["fr"] = "Étourdis les ennemis pendant 0,75s lorsque vous utilisez votre attaque de mêlée secondaire",
 		["tr"] = "Yakın dövüşte düşmanları ikincil saldırı kullanarak 0.75 saniye sersemlet",
@@ -234,6 +256,7 @@ ZShelter.AddInfo("Melee Stunning", {
 
 ZShelter.AddInfo("Airstrike", {
 	title = {
+		["ro"] = "",
 		["en"] = "Airstrike",
 		["fr"] = "Frappe Aérienne",
 		["tr"] = "Hava Saldırısı",
@@ -242,6 +265,7 @@ ZShelter.AddInfo("Airstrike", {
 		["ru"] = "Авиаудар",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Launch a airstrike on the place you aiming at",
 		["fr"] = "Lance une frappe aérienne à l'endroit que vous visez",
 		["tr"] = "Nişan aldığın yere hava saldırı başlat",
@@ -253,6 +277,7 @@ ZShelter.AddInfo("Airstrike", {
 
 ZShelter.AddInfo("Combat Stimpack", {
 	title = {
+		["ro"] = "",
 		["en"] = "Combat Stimpack",
 		["fr"] = "Stimulant de Combat",
 		["tr"] = "Uyarıcı Savaş İlacı",
@@ -261,6 +286,7 @@ ZShelter.AddInfo("Combat Stimpack", {
 		["ru"] = "Боевой стимулятор",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Temporary increases your damage by 500%",
 		["fr"] = "Augmente temporairement vos dégâts de 500%",
 		["tr"] = "Geçici olarak verdiğin hasarı %500 artırır",
@@ -272,6 +298,7 @@ ZShelter.AddInfo("Combat Stimpack", {
 
 ZShelter.AddInfo("Beginner Gun Mastery", {
 	title = {
+		["ro"] = "",
 		["en"] = "Beginner Gun Mastery",
 		["fr"] = "Maîtrise d'Armes Débutant",
 		["tr"] = "Başlangıç ​​Seviyesi Silah Ustalığı",
@@ -280,6 +307,7 @@ ZShelter.AddInfo("Beginner Gun Mastery", {
 		["ru"] = "Мастер оружия начального уровня",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to craft SMG, Shotgun from workstation",
 		["fr"] = "Permet de fabriquer des SMG et des fusils à pompe depuis un établi.",
 		["tr"] = "İş istasyonundan SMG, Pompalı Tüfek üretmenize olanak sağlar",
@@ -291,6 +319,7 @@ ZShelter.AddInfo("Beginner Gun Mastery", {
 
 ZShelter.AddInfo("Intermediate Gun Mastery", {
 	title = {
+		["ro"] = "",
 		["en"] = "Intermediate Gun Mastery",
 		["fr"] = "Maîtrise d'Armes Intermédiaire",
 		["tr"] = "Orta Seviye Silah Ustalığı",
@@ -299,6 +328,7 @@ ZShelter.AddInfo("Intermediate Gun Mastery", {
 		["ru"] = "Мастер оружия среднего уровня",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to craft Rifle from workstation",
 		["fr"] = "Permet de fabriquer des fusils depuis un établi",
 		["tr"] = "İş istasyonundan Tüfek üretmenizi sağlar",
@@ -310,6 +340,7 @@ ZShelter.AddInfo("Intermediate Gun Mastery", {
 
 ZShelter.AddInfo("Advanced Gun Mastery", {
 	title = {
+		["ro"] = "",
 		["en"] = "Advanced Gun Mastery",
 		["fr"] = "Maîtrise d'Armes Avancée",
 		["tr"] = "Gelişmiş Silah Ustalığı",
@@ -318,6 +349,7 @@ ZShelter.AddInfo("Advanced Gun Mastery", {
 		["ru"] = "Мастер оружия продвинутого уровня",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to craft Machine gun / Explosives from workstation",
 		["fr"] = "Permet de fabriquer des armes lourdes et des explosifs depuis un établi",
 		["tr"] = "İş istasyonundan Makineli Tüfek veya Patlayıcı üretmenizi sağlar",
@@ -329,6 +361,7 @@ ZShelter.AddInfo("Advanced Gun Mastery", {
 
 ZShelter.AddInfo("Damage Amplifier", {
 	title = {
+		["ro"] = "",
 		["en"] = "Damage Amplifier",
 		["fr"] = "Amplificateur de Dégâts",
 		["tr"] = "Hasar Arttırıcı",
@@ -337,6 +370,7 @@ ZShelter.AddInfo("Damage Amplifier", {
 		["ru"] = "Усилитель урона",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases all nearby player / turret's damage, +15% per upgrade",
 		["fr"] = "Augmente les dégâts de tous les joueurs/tourelles proches, +15% par amélioration",
 		["tr"] = "Yakındaki tüm oyuncuların ve kulelerin hasarını artırır",
@@ -348,6 +382,7 @@ ZShelter.AddInfo("Damage Amplifier", {
 
 ZShelter.AddInfo("Vampire", {
 	title = {
+		["ro"] = "",
 		["en"] = "Vampire",
 		["fr"] = "Vampire",
 		["tr"] = "Vampir",
@@ -356,6 +391,7 @@ ZShelter.AddInfo("Vampire", {
 		["ru"] = "Вампир",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Recover health when killing an enemy, +5 HP per upgrade",
 		["fr"] = "Récupérer des points de vie en tuant un ennemi, +5 PV par amélioration",
 		["tr"] = "Düşman öldürerek sağlığını geri kazanır",
@@ -367,6 +403,7 @@ ZShelter.AddInfo("Vampire", {
 
 ZShelter.AddInfo("Self Recovering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Self Recovering",
 		["fr"] = "Régénération Continue",
 		["tr"] = "Kendiliğinden İyileşme",
@@ -375,6 +412,7 @@ ZShelter.AddInfo("Self Recovering", {
 		["ru"] = "Самовосстановление",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Recovers health every second, +2 HP recovery per upgrade",
 		["fr"] = "Vous régénérez vos PV toutes les secondes, +2 PV par amélioration",
 		["tr"] = "Her saniye sağlığı iyileştirir",
@@ -386,6 +424,7 @@ ZShelter.AddInfo("Self Recovering", {
 
 ZShelter.AddInfo("Double Trigger", {
 	title = {
+		["ro"] = "",
 		["en"] = "Double Trigger",
 		["fr"] = "Double Détente",
 		["tr"] = "Çift Tetikleyici",
@@ -394,6 +433,7 @@ ZShelter.AddInfo("Double Trigger", {
 		["ru"] = "Двойной выстрел",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Attack additional targets when you shoot\n+1 Target per upgrade\n+10 Damage per upgrade (Base damage 25)",
 		["fr"] = "Permet d'attaquer des cibles supplémentaires lorsque vous tirez\n+1 Cible par amélioration\n+10 Dégâts par amélioration (Dégâts de Base 25)",
 		["tr"] = "Ateş ettiğinizde birçok hedefe saldırın\nYükseltme başına +1 hedef\nYükseltme başına +10 Hasar (Temel hasar 25)",
@@ -405,6 +445,7 @@ ZShelter.AddInfo("Double Trigger", {
 
 ZShelter.AddInfo("Grenade Stunning", {
 	title = {
+		["ro"] = "",
 		["en"] = "Grenade Stunning",
 		["fr"] = "Grenade Étourdissante",
 		["tr"] = "El Bombasıyla Sersemletme",
@@ -413,6 +454,7 @@ ZShelter.AddInfo("Grenade Stunning", {
 		["ru"] = "Оглушающая граната",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Grenade can stun enemies, +2.5s per upgrade",
 		["fr"] = "Vos grenades peuvent étourdir les ennemis, +2.5s par amélioration",
 		["tr"] = "El bombası düşmanları sersemletebilir, yükseltme başına +2.5 saniye",
@@ -424,6 +466,7 @@ ZShelter.AddInfo("Grenade Stunning", {
 
 ZShelter.AddInfo("Damage Reflecting", {
     title = {
+		["ro"] = "",
         ["en"] = "Damage Reflecting",
 		["fr"] = "Réflexion des Dégâts",
         ["tr"] = "Hasar Yansıtma",
@@ -432,6 +475,7 @@ ZShelter.AddInfo("Damage Reflecting", {
         ["ru"] = "",
     },
     desc = {
+		["ro"] = "",
         ["en"] = "Reflecting all incoming damage, +50% damage per upgrade",
 		["fr"] = "Renvoie tous les dégâts subis, +50% de dégâts par amélioration",
         ["tr"] = "Alınan tüm hasarı yansıtır, yükseltme başına +%50 hasar",
