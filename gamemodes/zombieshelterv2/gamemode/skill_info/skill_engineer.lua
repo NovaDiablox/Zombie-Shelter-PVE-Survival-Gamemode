@@ -25,6 +25,7 @@
 
 ZShelter.AddInfo("Basic Engineering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Basic Engineering",
 		["fr"] = "Ingénierie de Base",
 		["tr"] = "Temel Mühendislik",
@@ -33,6 +34,7 @@ ZShelter.AddInfo("Basic Engineering", {
 		["ru"] = "Инженер начального уровня",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to build advanced turrets",
 		["fr"] = "Permet de construire des tourelles avancées",
 		["tr"] = "Gelişmiş taretler üretmenize olanak sağlar",
@@ -43,6 +45,7 @@ ZShelter.AddInfo("Basic Engineering", {
 })
 ZShelter.AddInfo("Build Speed Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Build Speed Boost",
 		["fr"] = "Vitesse de Construction Améliorée",
 		["tr"] = "İnşa Hızı",
@@ -51,6 +54,7 @@ ZShelter.AddInfo("Build Speed Boost", {
 		["ru"] = "Увеличение скорости сборки",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases build speed +35% per upgrade",
 		["fr"] = "Augmente la vitesse de construction de +35% par amélioration",
 		["tr"] = "İnşa hızını yükseltme başına +%35 artırır",
@@ -61,6 +65,7 @@ ZShelter.AddInfo("Build Speed Boost", {
 })
 ZShelter.AddInfo("Improved Blueprint", {
 	title = {
+		["ro"] = "",
 		["en"] = "Improved Blueprint",
 		["fr"] = "Schéma Amélioré",
 		["tr"] = "Gelişmiş Plan",
@@ -69,6 +74,7 @@ ZShelter.AddInfo("Improved Blueprint", {
 		["ru"] = "Улучшение проекта",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Decreases resource cost, -10% per upgrade",
 		["fr"] = "Réduit le nombre de ressources nécessaires, -10% par amélioration",
 		["tr"] = "Kaynak maliyetini azaltır, yükseltme başına -%10",
@@ -79,6 +85,7 @@ ZShelter.AddInfo("Improved Blueprint", {
 })
 ZShelter.AddInfo("Electrical Engineering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Electrical Engineering",
 		["fr"] = "Ingénierie Électrique",
 		["tr"] = "Elektrik Mühendisliği",
@@ -87,6 +94,7 @@ ZShelter.AddInfo("Electrical Engineering", {
 		["ru"] = "Инженер-электрик",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Decreases power usage, -10% per upgrade",
 		["fr"] = "Réduit la consommation d'énergie, -10% par amélioration",
 		["tr"] = "Güç kullanımını azaltır, yükseltme başına -%10",
@@ -97,6 +105,7 @@ ZShelter.AddInfo("Electrical Engineering", {
 })
 ZShelter.AddInfo("Turret Damage Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Turret Damage Boost",
 		["fr"] = "Dégâts des Tourelles Améliorée",
 		["tr"] = "Taret Hasar Yükseltmesi",
@@ -105,6 +114,7 @@ ZShelter.AddInfo("Turret Damage Boost", {
 		["ru"] = "Усиление урона турели",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases turret's damage, +10% per upgrade",
 		["fr"] = "Augmente les dégâts des tourelles, +10% par amélioration",
 		["tr"] = "Taretin hasarını artırır, yükseltme başına +%10",
@@ -115,6 +125,7 @@ ZShelter.AddInfo("Turret Damage Boost", {
 })
 ZShelter.AddInfo("Advanced Engineering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Advanced Engineering",
 		["fr"] = "Ingénierie de Pointe",
 		["tr"] = "Gelişmiş Mühendislik",
@@ -123,6 +134,7 @@ ZShelter.AddInfo("Advanced Engineering", {
 		["ru"] = "Продвинутое проектирование",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to build special buildings",
 		["fr"] = "Vous permet de construire des bâtiments spéciaux",
 		["tr"] = "Özel yapılar inşa etmenize olanak sağlar",
@@ -133,6 +145,7 @@ ZShelter.AddInfo("Advanced Engineering", {
 })
 ZShelter.AddInfo("Repair Speed Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Repair Speed Boost",
 		["fr"] = "Réparation Accélérée",
 		["tr"] = "Tamir Hızı",
@@ -141,6 +154,7 @@ ZShelter.AddInfo("Repair Speed Boost", {
 		["ru"] = "Увеличение скорости ремонта",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases repair speed, +15% per upgrade",
 		["fr"] = "Augmente la vitesse de réparation, +15% par amélioration",
 		["tr"] = "Tamir hızını artırır, yükseltme başına +%15",
@@ -151,6 +165,7 @@ ZShelter.AddInfo("Repair Speed Boost", {
 })
 ZShelter.AddInfo("Auto Repair", {
 	title = {
+		["ro"] = "",
 		["en"] = "Auto Repair",
 		["fr"] = "Réparation Automatique",
 		["tr"] = "Otomatik Tamir",
@@ -159,6 +174,7 @@ ZShelter.AddInfo("Auto Repair", {
 		["ru"] = "Авторемонт",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Auto repairs nearby buildings, +256 unit radius and 20% repair speed per upgrade",
 		["fr"] = "Réparation automatique des bâtiments proches, +256 de rayon d'action et 20% de vitesse de réparation par amélioration",
 		["tr"] = "Yakındaki yapıları otomatik olarak tamir eder, yükseltme başına +256 birim alan ve %20 tamir hızı",
@@ -169,6 +185,7 @@ ZShelter.AddInfo("Auto Repair", {
 })
 ZShelter.AddInfo("Clawhammer Upgrade", {
 	title = {
+		["ro"] = "",
 		["en"] = "Clawhammer Upgrade",
 		["fr"] = "Marteau",
 		["tr"] = "Pençe Çekiç",
@@ -177,6 +194,7 @@ ZShelter.AddInfo("Clawhammer Upgrade", {
 		["ru"] = "Переход на молоток",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Upgrades your melee weapon to clawhammer (+50% build and repair speed)",
 		["fr"] = "Améliore votre arme de mêlée en marteau (+50% de vitesse de construction et de réparation)",
 		["tr"] = "Yakın dövüş silahınızı pençe çekice yükseltir (+%50 inşa ve tamir hızı)",
@@ -187,6 +205,7 @@ ZShelter.AddInfo("Clawhammer Upgrade", {
 })
 ZShelter.AddInfo("Building Health Boost", {
 	title = {
+		["ro"] = "",
 		["en"] = "Building Health Boost",
 		["fr"] = "Renforcement des Constructions",
 		["tr"] = "Yapı Sağlık Yükseltmesi",
@@ -195,6 +214,7 @@ ZShelter.AddInfo("Building Health Boost", {
 		["ru"] = "Укрепление прочности строений",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Increases building's health, +10% per upgrade",
 		["fr"] = "Augmente la santé des bâtiments, +10% par amélioration",
 		["tr"] = "Yapının sağlığını artırır, yükseltme başına +%10",
@@ -205,6 +225,7 @@ ZShelter.AddInfo("Building Health Boost", {
 })
 ZShelter.AddInfo("Expert Engineering", {
 	title = {
+		["ro"] = "",
 		["en"] = "Expert Engineering",
 		["fr"] = "Expert en Ingénierie",
 		["tr"] = "Uzman Mühendislik",
@@ -213,6 +234,7 @@ ZShelter.AddInfo("Expert Engineering", {
 		["ru"] = "Проектирование эксперта",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to build advanced buildings",
 		["fr"] = "Permet de construire des bâtiments avancés",
 		["tr"] = "Gelişmiş yapılar inşa etmenizi sağlar",
@@ -223,6 +245,7 @@ ZShelter.AddInfo("Expert Engineering", {
 })
 ZShelter.AddInfo("Chain Repair", {
 	title = {
+		["ro"] = "",
 		["en"] = "Chain Repair",
 		["fr"] = "Réparation à la Chaîne",
 		["tr"] = "Zincirleme Tamir",
@@ -231,6 +254,7 @@ ZShelter.AddInfo("Chain Repair", {
 		["ru"] = "Цепной ремонт",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Repairs all nearby buildings, +64 unit radius and 20% repair speed per upgrade",
 		["fr"] = "Répare tous les bâtiments proches, +64 de rayon d'action et 20% de vitesse de réparation par amélioration",
 		["tr"] = "Yakındaki tüm yapıları tamir eder, yükseltme başına +64 birim alan ve %20 tamir hızı",
@@ -241,6 +265,7 @@ ZShelter.AddInfo("Chain Repair", {
 })
 ZShelter.AddInfo("Overheal", {
 	title = {
+		["ro"] = "",
 		["en"] = "Overheal",
 		["fr"] = "Rénovation",
 		["tr"] = "Gelişmiş İyileştirme",
@@ -249,6 +274,7 @@ ZShelter.AddInfo("Overheal", {
 		["ru"] = "Сверхпрочность",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Temporary increases building's maximum health, +25% health per upgrade\nOverhealed building won't be stunned\n*Only work when repairing manually*",
 		["fr"] = "Augmente temporairement la santé maximale des bâtiments, +25% de santé par amélioration\nLes bâtiments rénover ne sont pas étourdis\n*Cela ne fonctionne que pour les réparations manuelles*",
 		["tr"] = "Geçici olarak yapının maksimum sağlığını artırır, yükseltme başına +%25\nGelişmiş İyileştirme kullanılan yapı sersemlemez",
@@ -259,6 +285,7 @@ ZShelter.AddInfo("Overheal", {
 })
 ZShelter.AddInfo("Recycle", {
 	title = {
+		["ro"] = "",
 		["en"] = "Recycle",
 		["fr"] = "Recyclage",
 		["tr"] = "Geri Dönüşüm",
@@ -267,6 +294,7 @@ ZShelter.AddInfo("Recycle", {
 		["ru"] = "Переработка",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Returns resources when building got destroyed, +20% per upgrade",
 		["fr"] = "Restitue une partie des ressources lorsqu'un bâtiment a été détruit, +20% par amélioration",
 		["tr"] = "Yapı yok edildiğinde kaynakları geri döndürür, yükseltme başına +%20",
@@ -277,6 +305,7 @@ ZShelter.AddInfo("Recycle", {
 })
 ZShelter.AddInfo("Self Destruction", {
 	title = {
+		["ro"] = "",
 		["en"] = "Self Destruction",
 		["fr"] = "Autodestruction",
 		["tr"] = "Kendini İmha Etme",
@@ -285,6 +314,7 @@ ZShelter.AddInfo("Self Destruction", {
 		["ru"] = "Самоуничтожение",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "When a turret gets destroyed, it'll damage all nearby enemy",
 		["fr"] = "Lorsqu'une tourelle est détruite, elle explose et inflige des dégâts à tous les ennemis proches",
 		["tr"] = "Bir kule yok edildiğinde yakındaki tüm düşmanlara hasar verir",
@@ -295,6 +325,7 @@ ZShelter.AddInfo("Self Destruction", {
 })
 ZShelter.AddInfo("Transporting Drone", {
 	title = {
+		["ro"] = "",
 		["en"] = "Transporting Drone",
 		["fr"] = "Drone de Transport",
 		["tr"] = "Aktarım Dronu",
@@ -303,6 +334,7 @@ ZShelter.AddInfo("Transporting Drone", {
 		["ru"] = "Дрон-транспортировщик",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Allows you to use resources directly from storage to build",
 		["fr"] = "Permet d'utiliser directement les ressources du stockage pour construire",
 		["tr"] = "Depodan kaynakları doğrudan inşa etmek için kullanabilmeni sağlar",
@@ -313,6 +345,7 @@ ZShelter.AddInfo("Transporting Drone", {
 })
 ZShelter.AddInfo("C4", {
 	title = {
+		["ro"] = "",
 		["en"] = "C4",
 		["fr"] = "C4",
 		["tr"] = "C4",
@@ -321,6 +354,7 @@ ZShelter.AddInfo("C4", {
 		["ru"] = "Взрывчатка C4",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "A C4 can be used to destroy obstacles",
 		["fr"] = "Les C4 peuvent être utilisés pour détruire des obstacles",
 		["tr"] = "Engelleri yok etmek için C4 kullanılabilir",
@@ -331,6 +365,7 @@ ZShelter.AddInfo("C4", {
 })
 ZShelter.AddInfo("Repair Aura", {
 	title = {
+		["ro"] = "",
 		["en"] = "Repair Aura",
 		["fr"] = "Aura de Réparation",
 		["tr"] = "Tamir Aurası",
@@ -339,6 +374,7 @@ ZShelter.AddInfo("Repair Aura", {
 		["ru"] = "Аура ремонта",
 	},
 	desc = {
+		["ro"] = "",
 		["en"] = "Auto repairs all nearby buildings with 300% speed",
 		["fr"] = "Réparation automatique de tous les bâtiments proches à une vitesse de 300%",
 		["tr"] = "Yakındaki tüm yapıları %300 hızla otomatik olarak onarır",
@@ -349,6 +385,7 @@ ZShelter.AddInfo("Repair Aura", {
 })
 ZShelter.AddInfo("Damage Reflection", {
     title = {
+		["ro"] = "",
         ["en"] = "Damage Reflection",
 		["fr"] = "Réflexion des Dégâts",
         ["tr"] = "Hasar Yansıtma",
@@ -357,6 +394,7 @@ ZShelter.AddInfo("Damage Reflection", {
         ["ru"] = "",
     },
     desc = {
+		["ro"] = "",
         ["en"] = "Reflects damage when turret is being attacked\n+25% Damage to attacker per upgrade\n+5 Damage to all nearby enemies per upgrade",
 		["fr"] = "Les tourelles renvoie les dégâts lorsqu'elles sont attaquées\n+25 % de dégâts à l'attaquant par amélioration\n+5 dégâts à tous les ennemis proches par amélioration",
         ["tr"] = "",
