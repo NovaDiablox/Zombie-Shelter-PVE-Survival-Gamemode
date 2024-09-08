@@ -66,7 +66,7 @@ ZShelter.L("#",{
 ZShelter.L("#SkillPTS", {
 	["ro"] = "",
 	["en"] = "Skill menu - [N] | Remaining points : ",
-	["fr"] = "Menu des compétences - [N] | Points restants : ",
+	["fr"] = "Compétences - [N] | Points restants : ",
 	["tr"] = "Yetenek menüsü - [N] | Kalan puan : ",
 	["ru"] = "Меню навыков - [N] | Осталось очков : ",
 	["zh-TW"] = "技能樹 - [N] | 剩餘點數 : ",
@@ -96,7 +96,7 @@ ZShelter.L("#RespawnAfter", {
 ZShelter.L("#BuildingHint", {
 	["ro"] = "",
 	["en"] = "[Left Click] Build   |  [R] Rotate  |   [Right Click] Cancel",
-	["fr"] = "[B] Construction | [F2] Menu | [F6] Configuration",
+	["fr"] = "[Clic Gauche] Construire | [R] Pivoter | [Clic Droit] Annuler",
 	["tr"] = "[Sol Tık] İnşa Et   |  [R] Döndür  |   [Sağ Tık] İptal",
 	["ru"] = "[ЛКМ] Построить   |  [R] Вращать  |   [ПКМ] Отмена",
 	["zh-TW"] = "[左鍵] 建造  |  [R] 旋轉  |  [右鍵] 取消",
