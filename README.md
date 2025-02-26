@@ -26,15 +26,15 @@ If your shelter is destroyed, you lose
 Create a separate file for [zshelter_server_settings.properties](https://github.com/Meiryi/Zombie-Shelter-PVE-Survival-Gamemode/blob/main/resource/localization/en/zshelter_server_settings.properties). The file name is your [language code](https://wiki.facepunch.com/gmod/Addon_Localization#supportedlanguages).
 
 ## Credits
-- **Meiryi** - Coded the entire gamemode
-- **★Bullet★** - Porting models, sprites, materials. Without him this addon is not possible
-- **Russian** - [BlueBerry](https://steamcommunity.com/id/berrygaming)
-- **Turkish** - Tora
-- **French** - MisterClems
-- **German** - DascooleSchaf and GermanMaKo
+- [**Meiryi**](https://steamcommunity.com/profiles/76561199185181296) - Coded the entire gamemode
+- [**★Bullet★**](https://steamcommunity.com/profiles/76561198987271516) - Porting models, sprites, materials. Without him this addon is not possible
+- **Russian** - [BlueBerry](https://steamcommunity.com/profiles/76561198158864042)
+- **Turkish** - [Tora](https://steamcommunity.com/profiles/76561198443702005)
+- **French** - [MisterClems](https://steamcommunity.com/profiles/76561198069587945)
+- **German** - [DascooleSchaf](https://steamcommunity.com/profiles/76561199044490005) and [GermanMaKo](https://steamcommunity.com/profiles/76561198438593701)
 - **Bulgarian** - DDobromirov ( [dvd_video][ref-dvd] )
 - **Vietnamese** - JOSMRZ
-- **Spanish** - [Ryo567](https://steamcommunity.com/id/ryo567)
+- **Spanish** - [Ryo567](https://steamcommunity.com/profiles/76561198009674175)
 - **We Is Heroes** - Playtest, and provided alot of ideas for skills
 
-[ref-dvd]: https://steamcommunity.com/id/dvd_video/
+[ref-dvd]: https://steamcommunity.com/profiles/76561197988124141
