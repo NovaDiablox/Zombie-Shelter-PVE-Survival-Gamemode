@@ -28,12 +28,13 @@ Create a separate file for [zshelter_server_settings.properties](https://github.
 ## Credits
 - **Meiryi** - Coded the entire gamemode
 - **★Bullet★** - Porting models, sprites, materials. Without him this addon is not possible
-- **Russian** - BlueBerry
+- **Russian** - [BlueBerry](https://steamcommunity.com/id/berrygaming)
 - **Turkish** - Tora
 - **French** - MisterClems
 - **German** - DascooleSchaf and GermanMaKo
 - **Bulgarian** - DDobromirov ( [dvd_video][ref-dvd] )
 - **Vietnamese** - JOSMRZ
+- **Spanish** - [Ryo567](https://steamcommunity.com/id/ryo567)
 - **We Is Heroes** - Playtest, and provided alot of ideas for skills
 
 [ref-dvd]: https://steamcommunity.com/id/dvd_video/
