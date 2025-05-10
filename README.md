@@ -3,8 +3,6 @@
 Zombie Shelter is a cooperative tower defense styled gamemode, Inspired by CSN's Zombie Shelter gamemode, You need to survive to day 30 or call for rescue on day 15
 If your shelter is destroyed, you lose
 
-* Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3313743318
-
 ## Features
 
 * **Looking to play list**: You can join other player's game with looking to play feature
@@ -19,11 +17,12 @@ If your shelter is destroyed, you lose
 * **External Config Support**: You can download and play with other player's config from workshop
 
 ## Want To Provide Localization?
-* [shared_languages.lua](https://github.com/Meiryi/Zombie-Shelter-PVE-Survival-Gamemode/blob/main/gamemodes/zombieshelterv2/gamemode/shared/shared_languages.lua)
-* [skill_info](https://github.com/Meiryi/Zombie-Shelter-PVE-Survival-Gamemode/tree/main/gamemodes/zombieshelterv2/gamemode/skill_info)
-* [zshelter_server_settings.properties](https://github.com/Meiryi/Zombie-Shelter-PVE-Survival-Gamemode/blob/main/resource/localization/en/zshelter_server_settings.properties)
 
-Create a separate file for [zshelter_server_settings.properties](https://github.com/Meiryi/Zombie-Shelter-PVE-Survival-Gamemode/blob/main/resource/localization/en/zshelter_server_settings.properties). The file name is your [language code](https://wiki.facepunch.com/gmod/Addon_Localization#supportedlanguages).
+* [shared_languages.lua](https://github.com/NovaDiablox/Zombie-Shelter-PVE-Survival-Gamemode/blob/main/gamemodes/zombieshelterv2/gamemode/shared/shared_languages.lua)
+* [skill_info](https://github.com/NovaDiablox/Zombie-Shelter-PVE-Survival-Gamemode/tree/main/gamemodes/zombieshelterv2/gamemode/skill_info)
+* [zshelter_server_settings.properties](https://github.com/NovaDiablox/Zombie-Shelter-PVE-Survival-Gamemode/tree/main/resource/localization)
+
+Create a separate file for [zshelter_server_settings.properties](https://github.com/NovaDiablox/Zombie-Shelter-PVE-Survival-Gamemode/tree/main/resource/localization) with your [language code](https://wiki.facepunch.com/gmod/Addon_Localization#supportedlanguages).
 
 ## Credits
 - [**Meiryi**](https://steamcommunity.com/profiles/76561199185181296) - Coded the entire gamemode
